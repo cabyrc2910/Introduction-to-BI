@@ -1,0 +1,13 @@
+jobaya8638@introace.com
+198362
+
+Кейс_Мажор-Авто 
+https://docs.google.com/spreadsheets/d/1vev2uOhVs4PS7vMxLRWi9DocrlWGSj8I/export?format=xlsx
+
+Сайт Центробанка
+https://cbr.ru/currency_base/daily/
+
+https://docs.google.com/spreadsheets/d/1E3TwxSZYDV2fYvYdMBr1Ci_LvfDznEpsZ11jFOo5eZk/export?format=xlsx
+
+1) https://www.daxformatter.com/ форматирование кода DAX
+2) https://learn.microsoft.com/ru-ru/dax/dax-function-reference справочник
